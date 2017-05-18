@@ -1,0 +1,179 @@
+html {
+	background-image: url(https://img.clipartfest.com/9988f9cda5994ac61eff5b25bd7b6d91_-golden-parchment-paper-parchment-paper-clipart-background_3888-2592.jpeg);
+	text-shadow: 1px 1px black;
+	color: black;
+	font-style: oblique;
+}
+
+ul {
+	list-style-type: none;
+	text-decoration: none;
+	
+}
+
+li {
+	float: left;
+	padding: 10px 85px;
+	}
+
+li a {
+	text-decoration: none;
+	color: black;
+}
+
+h1{
+	border-bottom: 3px solid black;
+	text-align:center;
+}
+
+p.Identity {
+	width: 665px;
+	float: left;
+	letter-spacing: 3px;
+	border-right: 3px solid black;
+	line-height:30px;
+}
+	
+p.massacre {
+ width: 665px;
+ height: 500px;
+ float: left;
+ letter-spacing: 3px;
+ border-right: 3px solid black;
+ line-height: 30px;
+ text-align: center;
+}
+
+img.massacre {
+ height: 500px;
+ width: 600px;
+	
+}
+
+img.intolerableacts {
+ height: 500px;
+ width: 600px;
+ float:left;
+}
+
+p.intolerableacts{
+	width: 665px;
+  height: 500px;
+	float:right;
+	letter-spacing: 3px;
+  border-left: 3px solid black;
+  line-height: 30px;
+  text-align: center;
+	
+}
+
+h2 {
+ border-bottom: 3px solid black;
+}
+
+p.lexington {
+ width: 665px;
+ height: 100px;
+ float: left;
+ letter-spacing: 3px;
+ border-right: 3px solid black;
+ line-height: 30px;
+ text-align: center;
+}
+
+img.lexington {
+ height: 100px;
+ width: 150px;
+	
+}
+
+img.boston {
+ height: 125px;
+ width: 175px;
+}
+
+p.boston {
+	width: 665px;
+  height: 100px;
+	float:right;
+	letter-spacing: 3px;
+  border-left: 3px solid black;
+  line-height: 30px;
+  text-align: center;	
+}
+
+h2 {
+ border-bottom: 3px solid black;
+}
+
+p.bunkerhill {
+ width: 665px;
+ height: 100px;
+ float: left;
+ letter-spacing: 3px;
+ border-right: 3px solid black;
+ line-height: 30px;
+ text-align: center;
+}
+
+img.bunkerhill {
+ height: 100px;
+ width: 150px;
+}
+
+p.washington {
+ width: 665px;
+ height: 100px;
+ float: left;
+ letter-spacing: 3px;
+ border-right: 3px solid black;
+ line-height: 30px;
+ text-align: center;
+}
+
+img.washington {
+ height: 125x;
+ width: 100px;
+	
+}
+
+img.jefferson {
+ height: 125px;
+ width: 100px;
+}
+
+p.jefferson {
+	width: 665px;
+  height: 100px;
+	float:right;
+	letter-spacing: 3px;
+  border-left: 3px solid black;
+  line-height: 30px;
+  text-align: center;
+	
+}
+
+h2 {
+ border-bottom: 3px solid black;
+}
+
+p.adams {
+ width: 665px;
+ height: 100px;
+ float: left;
+ letter-spacing: 3px;
+ border-right: 3px solid black;
+ line-height: 30px;
+ text-align: center;
+}
+
+img.adams {
+ height: 125px;
+ width: 100px;
+}
+
+p.Support {
+	letter-spacing: 3px;
+
+	line-height:30px;
+}
